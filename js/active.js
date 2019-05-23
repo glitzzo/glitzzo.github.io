@@ -29,9 +29,9 @@
           }
     });
     $( "#target2" ).click(function() {
-          var r = confirm("Do You want Combo3!");
+          var r = confirm("Do you want this combo?");
           if (r == true) {
-             window.open("https://wa.me/919566019951?text=I%20want%20Combo3");
+             window.open("https://wa.me/919566019951?text=I%20want%20this%20Combo");
           } else {
             alert('you have cancelled')
           }
